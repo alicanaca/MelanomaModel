@@ -1,0 +1,8 @@
+/venv/
+/melanoma.zip
+/model_fold_0.bin
+/model_fold_1.bin
+/model_fold_2.bin
+/model_fold_3.bin
+/model_fold_4.bin
+/se_resnext50_32x4d-a260b3a4.pth
